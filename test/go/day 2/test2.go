@@ -16,7 +16,7 @@ func traversalString() {
 }
 
 func main() {
-	fmt.Printf("str := \"c:\\Code\\lesson1\\go.exe\"\n")
-	traversalString()
+	fmt.Printf("str := \"c:\\Code\\lesson1\\go.exe\"\n")//转义符
+	traversalString() 
 
 }

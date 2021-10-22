@@ -1,4 +1,4 @@
-package main
+package main//要修改字符串，需要先将其转换成[]rune或[]byte，完成后再转换为string。无论哪种转换，都会重新分配内存，并复制字节数组
 
 import "fmt"
 
